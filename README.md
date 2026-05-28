@@ -102,7 +102,14 @@ Optimized complex stored procedures and query execution plans for enterprise app
 * I like exploring security implementations and middleware design
 * Sometimes I spend more time naming variables than coding
 
+---
 
+## 📫 Connect With Me
+
+* Portfolio: ~~samodoksync.com~~ (currently unavailable temporarily)
+* Portfolio: new-porto-debi.pages.dev
+
+  
 ---
 
 ```bash
