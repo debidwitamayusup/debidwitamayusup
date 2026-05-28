@@ -4,7 +4,7 @@
 
 I'm a software developer focused on building secure and scalable web applications using:
 
-* ASP.NET Core / .NET 6
+* ASP.NET Core
 * Next.js
 * SQL Server & Oracle
 * API Security & Authentication
